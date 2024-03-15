@@ -101,7 +101,7 @@ input:focus {
   color: #0099ff;
 }
 
-#register-form #register-password {
+#register-form #generated-password {
   border: 1px solid #0099ff;
   border-radius: 4px;
   font-weight: bold;
@@ -113,7 +113,7 @@ input:focus {
   display: none;
 }
 
-#register-form #register-password {
+#register-form #generated-password {
   color: #81d340;
   margin-bottom: 0.rem;
 }
