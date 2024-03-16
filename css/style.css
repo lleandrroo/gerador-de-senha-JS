@@ -99,6 +99,7 @@ input:focus {
 
 #open-generate-password:hover {
   color: #0099ff;
+  cursor: pointer;
 }
 
 #register-form #generated-password {
